@@ -25,6 +25,7 @@ public int a;
 	}
 
 	public static void main(String[] args) {
+		System.out.println("Hello");
 		MyFirstPrograme obj= new MyFirstPrograme();
 		obj.Display();
 		System.out.println("This is the main part");
