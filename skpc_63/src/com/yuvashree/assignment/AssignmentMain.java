@@ -14,6 +14,7 @@ public class AssignmentMain {
 		util.giveRaisee(developer, 15);
 		System.out.println("\nAfter Raises:");
 		util.printEmployeeDetails(manager);
+		System.out.println("\n");
 		util.printEmployeeDetails(developer);
 		
 	}
