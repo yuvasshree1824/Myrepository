@@ -8,7 +8,7 @@ public class AssignmentMain {
 		EmployeeUtilities util=new EmployeeUtilities();
 		System.out.println("Manager Details:");
 		util.printEmployeeDetails(manager);
-		util.giveRaisee(manager, 10);
+		util.giveRaisee(manager, 15);
 		System.out.println("\nDevelopers Details:");
 		util.printEmployeeDetails(developer);
 		util.giveRaisee(developer, 15);
